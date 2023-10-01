@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808a9e0d-bb8e-41ab-aa3b-7edc25ca8fd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
@@ -20,6 +21,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Practice Web\Tailwind\Food-Ninja-Tailwind\public\assets\js" />
       <recent name="E:\Practice Web\Tailwind\Food-Ninja-Tailwind\public\assets\images" />
     </key>
   </component>
@@ -67,7 +70,9 @@
       <updated>1696074528596</updated>
       <workItem from="1696074536360" duration="1186000" />
       <workItem from="1696076674690" duration="3016000" />
-      <workItem from="1696093392064" duration="3929000" />
+      <workItem from="1696093392064" duration="4808000" />
+      <workItem from="1696140692458" duration="4728000" />
+      <workItem from="1696152971250" duration="89000" />
     </task>
     <servers />
   </component>
